@@ -65,4 +65,4 @@ The workshop will be a mixture of lectures and practical tutorials. Case studies
 
 ### <font color="blue">Applying for the workshop</font>
 
-Please apply by filling out the form [here]({{ site.url }}/download/application-mle.pdf) and emailing to the address on the form
+Please apply by filling out the form [here]({{ site.url }}/download/application-mle.pdf) and emailing to the address on the form. Applications close on 30 October. We can accommodate a maximum of 25 participants in the workshop venue and spaces will be allocated on a first-come first-served basis.
