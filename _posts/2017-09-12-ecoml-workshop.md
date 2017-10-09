@@ -27,7 +27,7 @@ Classification or identification - for example, of a species, an individual, or 
 
 *Costs*: R3000 (non-academics), R2000 (academics, SEEC partners), R1000 (students)
 
-*Instructor*: Ian Durbach (SEEC & Statistical Sciences UCT / AIMS)
+*Instructor*: Ian Durbach (SEEC & Statistical Sciences UCT / AIMS), Emmanuel Dufourq (AIMS)
 
 ### <font color="blue">Workshop schedule</font> 
 
