@@ -25,7 +25,7 @@ Classification or identification - for example, of a species, an individual, or 
 
 *Computers*: Bring your own laptop
 
-*Costs*: R3500 (non-academics), R2500 (academics, SEEC partners), R1250 (students)
+*Costs*: R3000 (non-academics), R2000 (academics, SEEC partners), R1000 (students)
 
 *Instructor*: Ian Durbach (SEEC & Statistical Sciences UCT / AIMS)
 
