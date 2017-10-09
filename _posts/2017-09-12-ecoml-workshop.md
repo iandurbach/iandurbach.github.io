@@ -5,7 +5,7 @@ title: Workshop on Machine Learning for Ecology
 
 <img src="/images/seec.png" alt="Drawing" style="width: 230px;"/>
 <img src="/images/statsci.png" alt="Drawing" style="width: 230px;"/>
-<img src="/images/aims.png" alt="Drawing" style="width: 230px;"/>
+<img src="/images/AIMS_sa.jpg" alt="Drawing" style="width: 230px;"/>
 
 <font color="red">Cape Town, 20-22 November 2017</font>
 
