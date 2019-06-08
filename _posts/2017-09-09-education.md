@@ -22,9 +22,13 @@ I obtained a BBusSc (bachelor of business science) in Quantitative Management wi
 
 ### Employment
 
+##### Research fellow, Centre for Research into Ecological and Environmental Modelling, University of St Andrews
+
+In October 2018 I joined CREEM at the University of St Andrews in Scotland as a research fellow. I work on two projects: using movement models to assess behavioural responses of minke whales to sonar, and designing camera trap surveys for the first range-wide survey of snow leopards.
+
 ##### Senior Researcher / Researcher, African Institute for Mathematical Sciences
 
-I was employed as a researcher in January 2014 and promoted to senior Researcher in January 2017. AIMS is a pan-African initiative to strengthen the development of mathematical talent in Africa. At AIMS South Africa supervision of postgraduate students; assisting with applied statistical modelling for established research groups at AIMS.
+I was employed as a researcher (2014-2017) and senior Researcher (2017-2018), and am currently an AIMS associate research fellow (as of 2019). AIMS is a pan-African initiative to strengthen the development of mathematical talent in Africa. At AIMS South Africa supervision of postgraduate students; assisting with applied statistical modelling for established research groups at AIMS. 
 
 ##### Associate professor, Department of Statistical Sciences, University of Cape Town
 
